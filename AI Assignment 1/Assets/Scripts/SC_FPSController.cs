@@ -1,4 +1,5 @@
 ﻿//100653593 Nathan Boldy
+// Oct 02 2020
 // This script primarily consists of a 3rd party movement controller sourced from here: https://sharpcoderblog.com/blog/unity-3d-fps-controller
 // My contribution is the raycast which checks for doors and triggers the win/loss state, and the exit button.
 using System.Collections;
